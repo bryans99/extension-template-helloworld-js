@@ -42,7 +42,8 @@ It uses [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlan
     label: "Helloworld (JavaScript)"
     url: "http://localhost:8080/bundle.js"
     entitlements: {
-    core_api_methods: ["me"]
+     core_api_methods: ["me"]
+    }
    }
    ```
 
